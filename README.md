@@ -1,2 +1,2 @@
-# DIGNet
-The official code for “DIGNet: Deep Iterative Generic Text Eraser”.
+# DeepEraser
+The official code for “DeepEraser: Deep Iterative Generic Text Eraser”.

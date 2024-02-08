@@ -1,0 +1,7 @@
+gradio 
+numpy 
+Pillow 
+scipy 
+scikit-image 
+torch 
+opencv-python

@@ -11,3 +11,15 @@ The official code for “DeepEraser: Deep Iterative Context Mining \par for Gene
     python demo.py
     ```
 
+## Citation
+
+If you find this code useful for your research, please use the following BibTeX entry.
+
+```
+@inproceedings{feng2021doctr,
+  title={DeepEraser: Deep Iterative Context Mining \par for Generic Text Eraser},
+  author={Feng, Hao and Wang, Wendi and Liu, Shaokai and Deng, Jiajun and Zhou, Wengang and Li, Houqiang},
+  booktitle={arXiv},
+  year={2024}
+}
+```

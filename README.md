@@ -1,7 +1,7 @@
 🚀 **Exciting update! We have created a demo for our paper, showcasing the adaptive removal capabilities of our method. [Check it out here!](https://deeperaser.doctrp.top:20443/)**
 
 # DeepEraser
-The official code for “DeepEraser: Deep Iterative Context Mining \par for Generic Text Eraser”.
+The official code for “DeepEraser: Deep Iterative Context Mining for Generic Text Eraser”.
 
 ## 🚀 Demo [(Link)](https://deeperaser.doctrp.top:20443/)
 1. Put the distorted images in `$ROOT/input_imgs/` and rename it to `input.png`.

@@ -3,6 +3,9 @@
 # DeepEraser
 The official code for “DeepEraser: Deep Iterative Context Mining for Generic Text Eraser”.
 
+<img width="932" alt="image" src="https://github.com/fh2019ustc/DeepEraser/assets/50725551/76e9dddc-e115-4b09-8a48-3de050e64823">
+
+
 ## 🚀 Demo [(Link)](https://deeperaser.doctrp.top:20443/)
 1. Put the distorted images in `$ROOT/input_imgs/` and rename it to `input.png`.
 2. Put the mask image in `$ROOT/input_imgs/` and rename it to `mask.png`.

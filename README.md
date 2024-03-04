@@ -13,7 +13,7 @@ The official code for “DeepEraser: Deep Iterative Context Mining for Generic T
 
 
 ## 🚀 Demo [(Link)](https://deeperaser.doctrp.top:20443/)
-We have already released the pre-trained model, i.e., `./deeperaser.pth`.
+We have already released the pre-trained model, i.e., `$ROOT/deeperaser.pth`.
 
 1. Put the distorted images in `$ROOT/input_imgs/` and rename it to `input.png`.
 2. Put the mask image in `$ROOT/input_imgs/` and rename it to `mask.png`.

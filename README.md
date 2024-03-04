@@ -27,10 +27,10 @@ We have already released the pre-trained model, i.e., `./deeperaser.pth`.
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```
-@inproceedings{feng2024DeepEraser,
-  title={DeepEraser: Deep Iterative Context Mining \par for Generic Text Eraser},
+@article{feng2024deeperaser,
+  title={DeepEraser: Deep Iterative Context Mining for Generic Text Eraser},
   author={Feng, Hao and Wang, Wendi and Liu, Shaokai and Deng, Jiajun and Zhou, Wengang and Li, Houqiang},
-  booktitle={arXiv},
+  journal={arXiv preprint arXiv:2402.19108},
   year={2024}
 }
 ```

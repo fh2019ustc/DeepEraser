@@ -13,6 +13,15 @@ The official code for “DeepEraser: Deep Iterative Context Mining for Generic T
 
 
 ## 🚀 Demo [(Link)](https://deeperaser.doctrp.top:20443/)
+1. Upload the image to be erased in the left box.
+2. Draw the mask over the text to be erased on the image.
+3. Click the "Submit" button.
+4. The output image will be displayed in the right box.
+
+![image](https://github.com/fh2019ustc/DeepEraser/assets/50725551/21b60b47-0975-4f24-87e4-75f386d0c8e5)
+
+
+## Inference 
 We have already released the pre-trained model, i.e., `$ROOT/deeperaser.pth`.
 
 1. Put the distorted images in `$ROOT/input_imgs/` and rename it to `input.png`.

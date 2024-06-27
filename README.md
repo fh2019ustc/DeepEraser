@@ -22,7 +22,7 @@ The official code for “DeepEraser: Deep Iterative Context Mining for Generic T
 
 
 ## Inference 
-We have already released the pre-trained model, i.e., `$ROOT/deeperaser.pth`.
+We have already released the pre-trained model for the SCUT-ENSTEXT dataset, i.e., `$ROOT/deeperaser.pth`. The pre-trained models for the three datasets in the paper are available at the [Google Drive](https://drive.google.com/drive/folders/1jJoOph5cLqMpB_slywP8bWck1gr1DvEH?usp=sharing).
 
 1. Put the distorted images in `$ROOT/input_imgs/` and rename it to `input.png`.
 2. Put the mask image in `$ROOT/input_imgs/` and rename it to `mask.png`.

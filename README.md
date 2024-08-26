@@ -2,6 +2,9 @@
 
 # DeepEraser
 
+# PolySnake
+🔥 **Good news! Our work has been accepted by IEEE Transactions on Multimedia (*TMM*), 2024.**
+
 <p>
     <a href='https://arxiv.org/abs/2402.19108' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
     <a href='https://deeperaser.doctrp.top:20443/' target="_blank"><img src='https://img.shields.io/badge/Online-Demo-green'></a>
@@ -39,7 +42,7 @@ If you find this code useful for your research, please use the following BibTeX 
 @article{feng2024deeperaser,
   title={DeepEraser: Deep Iterative Context Mining for Generic Text Eraser},
   author={Feng, Hao and Wang, Wendi and Liu, Shaokai and Deng, Jiajun and Zhou, Wengang and Li, Houqiang},
-  journal={arXiv preprint arXiv:2402.19108},
+  journal={IEEE Transactions on Multimedia},
   year={2024}
 }
 ```

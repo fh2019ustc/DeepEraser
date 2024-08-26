@@ -2,7 +2,6 @@
 
 # DeepEraser
 
-# PolySnake
 🔥 **Good news! Our work has been accepted by IEEE Transactions on Multimedia (*TMM*), 2024.**
 
 <p>
